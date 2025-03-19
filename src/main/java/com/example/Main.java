@@ -1,4 +1,4 @@
-public class PrimeNumber {
+public class Main {
     public static boolean isPrime(int num) {
         if (num < 2) return false; // Numbers less than 2 are not prime
         for (int i = 2; i * i <= num; i++) { // Loop till square root of num
