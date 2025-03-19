@@ -8,7 +8,7 @@ public class PrimeNumber {
     }
 
     public static void main(String[] args) {
-        int num = 29; // Change this number to test
+        int num = 32; // Change this number to test
         if (isPrime(num)) {
             System.out.println(num + " is a Prime Number.");
         } else {
